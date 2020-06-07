@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="strsuctural.patterns.decorator.DecoratorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-06T17:05:14" hostname="cp1858" time="0.002">
+  <properties/>
+  <testcase name="shouldCreatePizzaWithAdditionalIngredients" classname="strsuctural.patterns.decorator.DecoratorTest" time="0.001"/>
+  <testcase name="shouldCreatePizzaBase" classname="strsuctural.patterns.decorator.DecoratorTest" time="0.0"/>
+  <system-out><![CDATA[Price for pizza base: 32
+Adding $2.00 to base price for additional ingredient tomato
+Adding $3.00 to base price for additional ingredient cheese
+Price for pizza base: 32
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

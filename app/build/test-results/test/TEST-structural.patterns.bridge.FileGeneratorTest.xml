@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="structural.patterns.bridge.FileGeneratorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-06T17:05:14" hostname="cp1858" time="0.001">
+  <properties/>
+  <testcase name="shouldChangeFileGeneratorImplInExecutionTime" classname="structural.patterns.bridge.FileGeneratorTest" time="0.001"/>
+  <testcase name="shouldReturnHeaderCustom" classname="structural.patterns.bridge.FileGeneratorTest" time="0.0"/>
+  <testcase name="shouldReturnHeaderOriginal" classname="structural.patterns.bridge.FileGeneratorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

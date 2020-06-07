@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creational.patterns.factory.FactoryInstrumentTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-06T17:05:14" hostname="cp1858" time="0.002">
+  <properties/>
+  <testcase name="shouldThrowExceptionWhenInstrumentNotFound" classname="creational.patterns.factory.FactoryInstrumentTest" time="0.001"/>
+  <testcase name="shouldReturnGuitar" classname="creational.patterns.factory.FactoryInstrumentTest" time="0.001"/>
+  <testcase name="shouldReturnAcousticGuitar" classname="creational.patterns.factory.FactoryInstrumentTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

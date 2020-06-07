@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creational.patterns.singleton.EngineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-06T17:05:14" hostname="cp1858" time="0.001">
+  <properties/>
+  <testcase name="instancesShouldBeEquals" classname="creational.patterns.singleton.EngineTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

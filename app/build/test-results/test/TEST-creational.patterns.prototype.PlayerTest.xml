@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creational.patterns.prototype.PlayerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-06T17:05:14" hostname="cp1858" time="0.002">
+  <properties/>
+  <testcase name="shouldCreateCounterTerrorist" classname="creational.patterns.prototype.PlayerTest" time="0.001"/>
+  <testcase name="shouldCreateTerrorist" classname="creational.patterns.prototype.PlayerTest" time="0.001"/>
+  <system-out><![CDATA[Counter Terrorist
+Terrorist
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creational.patterns.abstract_factory.FormatFieldsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-06-06T17:05:14" hostname="cp1858" time="0.004">
+  <properties/>
+  <testcase name="shouldReturnValueWithBlanksOnTheRight" classname="creational.patterns.abstract_factory.FormatFieldsTest" time="0.003"/>
+  <testcase name="shouldReturnValueWithLeadingBlanks" classname="creational.patterns.abstract_factory.FormatFieldsTest" time="0.0"/>
+  <testcase name="shouldReturnValueWithZerosToTheRight" classname="creational.patterns.abstract_factory.FormatFieldsTest" time="0.0"/>
+  <testcase name="shouldReturnValueWithLeadingZeros" classname="creational.patterns.abstract_factory.FormatFieldsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

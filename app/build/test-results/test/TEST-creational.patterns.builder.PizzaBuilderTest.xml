@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creational.patterns.builder.PizzaBuilderTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-06T17:05:14" hostname="cp1858" time="0.003">
+  <properties/>
+  <testcase name="shouldCreatePizzaWithCustomIngredients" classname="creational.patterns.builder.PizzaBuilderTest" time="0.001"/>
+  <testcase name="shouldCreateCatupiryPizza" classname="creational.patterns.builder.PizzaBuilderTest" time="0.002"/>
+  <testcase name="shouldCreateChickenPizza" classname="creational.patterns.builder.PizzaBuilderTest" time="0.0"/>
+  <system-out><![CDATA[Starting montage
+Starting montage
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

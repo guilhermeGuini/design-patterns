@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creational.patterns.builder.OrderFluentInterfaceBuilderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-06T17:05:14" hostname="cp1858" time="0.001">
+  <properties/>
+  <testcase name="shouldCreateOrder" classname="creational.patterns.builder.OrderFluentInterfaceBuilderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
