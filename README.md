@@ -25,3 +25,5 @@ the same construction process can create different representations." (GOF)
 `Composite`"Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly." (GOF)
 
 `Decorator` "Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality." (GOF)
+
+Ref.: http://www.w3sdesign.com/#gf
